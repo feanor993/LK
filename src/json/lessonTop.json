@@ -1,0 +1,24 @@
+{
+  "chartParams": {
+    "radius": 29.75,
+    "persent": 75.98484
+  },
+  "maxSize": 1e7,
+  "information": {
+    "time": "15 мин",
+    "teacher": "Иван Высоцкий",
+    "title": "Логорифмические уравнения. Первое знакомство с частью 2 ЕГЭ"
+  },
+  "buttons": [
+    {
+      "text": "Задание",
+      "link": "#",
+      "download": false
+    },
+    {
+      "text": "Материалы",
+      "link": "https://school-olymp.ru/about/",
+      "download": true
+    }
+  ]
+}

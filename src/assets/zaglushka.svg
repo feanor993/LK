@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="123px" viewBox="0 0 123 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="61.5" cy="61.5" r="61.5"></circle>
+    </defs>
+    <g id="Профиль" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-743.000000, -250.000000)">
+        <g id="Рабочая-область" transform="translate(639.000000, 192.000000)">
+            <g id="Фото-пользователя" transform="translate(104.000000, 58.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFBB30" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

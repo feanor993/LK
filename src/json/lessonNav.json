@@ -1,0 +1,146 @@
+{
+  "lessonInformation": {
+    "type": "Вебинар",
+    "name": "Заголовок вебинара с группировкой",
+    "group": true
+  },
+  "counter": {
+    "now": 2,
+    "total": 15
+  },
+  "navigation": [
+    {
+      "name": "Вступление и знакомство с автором",
+      "date": "25 мин",
+      "lessons": [
+        {
+          "name": "Вступление",
+          "date": "25.07.2018 14:19",
+          "id": "1",
+          "path": "1200-08JU-TRSO-OSTY",
+          "point": 100,
+          "time": 0,
+          "access": "done"
+
+        },
+        {
+          "name": "Логорифмические уравнения. Lorem ipsum",
+          "date": "06.07.2018 14:19",
+          "point": 10,
+          "id": "2",
+          "path": "2354-08JU-TRSO-OSTY",
+          "time": 0,
+          "access": "close"
+        },
+        {
+          "name": "Тут текст с названием",
+          "date": "06.07.2018 14:19",
+          "point": 77,
+          "id": "3",
+          "path": "6567-08JU",
+          "time": 0,
+          "access": "close"
+        }
+      ]
+    },
+    {
+      "name": "Вступление и знакомство с автором",
+      "date": "25 мин",
+      "lessons": [
+        {
+          "name": "Вступление",
+          "date": "25.07.2018 14:19",
+          "id": "1",
+          "path": "1200-08JU-TRSO-OSTY",
+          "point": 100,
+          "time": 0,
+          "access": "done"
+        },
+        {
+          "name": "Логорифмические уравнения. Lorem ipsum",
+          "date": "06.07.2018 14:19",
+          "point": 10,
+          "id": "2",
+          "path": "2354-08JU-TRSO-OSTY",
+          "time": 0,
+          "access": "close"
+        },
+        {
+          "name": "Тут текст с названием",
+          "date": "06.07.2018 14:19",
+          "point": 77,
+          "id": "3",
+          "path": "6567-08JU",
+          "time": 0,
+          "access": "close"
+        }
+      ]
+    },
+    {
+      "name": "Вступление и знакомство с автором",
+      "date": "25 мин",
+      "lessons": [
+        {
+          "name": "Вступление",
+          "date": "25.07.2018 14:19",
+          "id": "1",
+          "path": "1200-08JU-TRSO-OSTY",
+          "point": 100,
+          "time": 0,
+          "access": "done"
+        },
+        {
+          "name": "Логорифмические уравнения. Lorem ipsum",
+          "date": "06.07.2018 14:19",
+          "point": 10,
+          "id": "2",
+          "path": "2354-08JU-TRSO-OSTY",
+          "time": 0,
+          "access": "close"
+        },
+        {
+          "name": "Тут текст с названием",
+          "date": "06.07.2018 14:19",
+          "point": 77,
+          "id": "3",
+          "path": "6567-08JU",
+          "time": 0,
+          "access": "close"
+        }
+      ]
+    },
+    {
+      "name": "Вступление и знакомство с автором",
+      "date": "25 мин",
+      "lessons": [
+        {
+          "name": "Вступление",
+          "date": "25.07.2018 14:19",
+          "id": "1",
+          "path": "1200-08JU-TRSO-OSTY",
+          "point": 100,
+          "time": 0,
+          "access": "done"
+        },
+        {
+          "name": "Логорифмические уравнения. Lorem ipsum",
+          "date": "06.07.2018 14:19",
+          "point": 10,
+          "id": "2",
+          "path": "2354-08JU-TRSO-OSTY",
+          "time": 0,
+          "access": "close"
+        },
+        {
+          "name": "Тут текст с названием",
+          "date": "06.07.2018 14:19",
+          "point": 77,
+          "id": "3",
+          "path": "6567-08JU",
+          "time": 0,
+          "access": "close"
+        }
+      ]
+    }
+  ]
+}

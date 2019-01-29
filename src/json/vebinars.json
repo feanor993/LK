@@ -1,0 +1,103 @@
+{
+  "path": "/storage",
+  "items": [
+    {
+      "id": "reyu76453645235766",
+      "img": "http://apois.school-olymp.ru/lk/vueImg/bg.jpg",
+      "name": "Олимпиадная биология для начинающих 7-10 классы",
+      "type": "вебинар",
+      "date": "23.07.2018 19:00",
+      "subject": "химия",
+      "time": "60",
+      "point": "75",
+      "items": {
+        "done": 3,
+        "full": 15
+      },
+      "materials": {
+        "video": "#",
+        "book": "#",
+        "clip": "#"
+      }
+    },
+    {
+      "id": "hrtedrwy35y",
+      "img": "http://apois.school-olymp.ru/lk/vueImg/bg.jpg",
+      "name": "Олимпиадная биология для начинающих 7-10 классы",
+      "type": "вебинар",
+      "date": "23.07.2018 19:00",
+      "subject": "химия",
+      "time": "120",
+      "point": "75",
+      "items": {
+        "done": 3,
+        "full": 15
+      },
+      "materials": {
+        "video": "#",
+        "book": "#",
+        "clip": "#"
+      }
+    },
+    {
+      "id": "ghfgewist7824tw",
+      "img": "http://apois.school-olymp.ru/lk/vueImg/bg.jpg",
+      "name": "Олимпиадная биология для начинающих 7-10 классы",
+      "type": "вебинар",
+      "date": "23.07.2018 19:00",
+      "subject": "химия",
+      "time": "130",
+      "point": "75",
+      "items": {
+        "done": 3,
+        "full": 15
+      },
+      "materials": {
+        "video": "#",
+        "book": "#",
+        "clip": "#"
+      }
+    },
+    {
+      "id": "trhtetuht45765",
+      "img": "http://apois.school-olymp.ru/lk/vueImg/bg.jpg",
+      "name": "Олимпиадная биология для начинающих 7-10 классы",
+      "type": "вебинар",
+      "date": "23.07.2018 19:00",
+      "subject": "химия",
+      "time": "10",
+      "point": "75",
+      "items": {
+        "done": 3,
+        "full": 15
+      },
+      "materials": {
+        "video": "#",
+        "book": "#",
+        "clip": "#"
+      }
+    },
+    {
+      "id": "64576545e4rygberdfh",
+      "img": "http://apois.school-olymp.ru/lk/vueImg/bg.jpg",
+      "name": "Олимпиадная биология для начинающих 7-10 классы",
+      "type": "вебинар",
+      "date": "23.07.2018 19:00",
+      "subject": "химия",
+      "time": "60",
+      "point": "75",
+      "items": {
+        "done": 3,
+        "full": 15
+      },
+      "materials": {
+        "video": "#",
+        "book": "#",
+        "clip": "#"
+      }
+    }
+  ]
+}
+
+
+

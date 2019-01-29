@@ -1,0 +1,17 @@
+{
+  "photo": "",
+  "surname": "Харитонов",
+  "name": "Михаил",
+  "secondName": "Сергеевич",
+  "phoneNumber": "+7(925)-555-55-55",
+  "email": "mikhail.kharitonov2016@yandex.ru",
+  "city": "Москва",
+  "school": "Школа",
+  "schoolClass": "Первый",
+  "training": {
+    "EGE": true,
+    "OGE": false,
+    "olymp": true
+  },
+  "password": "12345"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="44px" viewBox="0 0 45 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>done-tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.8%" y="-5.6%" width="125.6%" height="118.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.842952806   0 0 0 0 0.842952806   0 0 0 0 0.842952806  0 0 0 0.0712749094 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Мои-вебинары" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1290.000000, -1213.000000)">
+        <g id="Вебинары" transform="translate(548.000000, 142.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="--Вебинар-1-Copy-8" filter="url(#filter-1)" transform="translate(715.000000, 679.000000)">
+                <g id="DZ" transform="translate(22.000000, 379.000000)">
+                    <g id="CHECK" transform="translate(18.000000, 11.000000)">
+                        <g id="done-tick" transform="translate(5.000000, 5.000000)">
+                            <path d="M7.6993534,0.399379941 L7.485143,0.212172076 C7.12957201,-0.0986573615 6.5952531,-0.064010134 6.28132688,0.290111745 L2.69785375,4.33202279 L1.61616627,3.38433483 C1.26097045,3.07315693 0.726569986,3.10710723 0.412268586,3.46084746 L0.222868879,3.67404075 C0.0692742146,3.84682886 -0.0104756061,4.07475717 0.00110597965,4.30758057 C0.01280175,4.54027121 0.114850201,4.75872464 0.284969015,4.91490266 L2.26775281,6.76194171 C2.43942127,6.92593527 2.66948702,7.01145817 2.90464215,6.99876414 C3.13979728,6.9861033 3.35965166,6.87620455 3.51326264,6.69462188 L7.79102736,1.63841657 C7.94047875,1.46176217 8.01478034,1.23197539 7.99755477,0.999633201 C7.98034551,0.767125083 7.87310981,0.551243651 7.6993534,0.399379941 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

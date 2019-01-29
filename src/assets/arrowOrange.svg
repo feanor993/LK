@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="5px" viewBox="0 0 11 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-point-to-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Дистанционный-курс-урок" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1859.000000, -35.000000)">
+        <g id="Header" transform="translate(-13.000000, -2.000000)" fill="#d59617" fill-rule="nonzero">
+            <g id="Пользователь" transform="translate(1724.000000, 22.000000)">
+                <g id="arrow-point-to-right" transform="translate(153.736847, 18.000000) rotate(90.000000) translate(-153.736847, -18.000000) translate(150.736847, 13.000000)">
+                    <path d="M4.82309782,5.62528574 L1.04921231,9.62018476 C0.80914761,9.87443982 0.419923844,9.87443982 0.179975686,9.62018476 C-0.0599918955,9.3661559 -0.0599918955,8.9541455 0.179975686,8.7001372 L3.51928173,5.16526196 L0.180072808,1.63051009 C-0.0598947741,1.37637841 -0.0598947741,0.964409141 0.180072808,0.710380273 C0.42004039,0.456248593 0.809244732,0.456248593 1.04930943,0.710380273 L4.82319494,4.70534098 C4.94317874,4.83241711 5.00310265,4.99878812 5.00310265,5.16524139 C5.00310265,5.33177691 4.94306219,5.49827131 4.82309782,5.62528574 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

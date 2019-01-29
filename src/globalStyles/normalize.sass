@@ -1,0 +1,82 @@
+/*NULL *\
+@import "variables"
+@import "/src/globalStyles/fonts/font.css"
+//@import "fonts/font.css"
+*
+  margin: 0 auto
+  padding: 0
+  box-sizing: border-box
+  outline: none !important
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,  del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,  table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed,  figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,  time, mark, audio, video
+  margin: 0
+  padding: 0
+  font-size: 100%
+  font: inherit
+  vertical-align: baseline
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section
+  display: block
+body
+  line-height: 1
+  width: 100%
+ol, ul
+  list-style: none
+blockquote, q
+  quotes: none
+blockquote:before, blockquote:after, q:before, q:after
+  content: ''
+  content: none
+table
+  border-collapse: collapse
+  border-spacing: 0
+
+a, a:hover
+  text-decoration: none
+
+.wrapper
+  font-family: $basic
+  background-color: rgba(251, 251, 251, 0.9)
+
+.main
+  width: calc(100vw - 395px)
+  position: relative
+  left: 197.5px
+  min-height: calc(100vh - 128px)
+  background: rgba(251, 251, 251, 0.9)
+  padding-bottom: 150px
+  padding-top: 52px
+  transition: .3s ease-in-out
+  &_user
+    min-height: calc(100vh - 84px)
+    left: 272px
+    width: calc(100vw - 272px)
+  &-content
+    margin-left: auto
+    margin-right: auto
+    background-color: #fff
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,0.04)
+    border-radius: 3px
+    width: 871px
+    max-width: 90%
+  &_full
+    width: 100%
+    left: 0
+.title
+  font-family: $bold
+  font-size: 35px
+  color: #333333
+  max-width: 871px
+  margin-left: auto
+  margin-right: auto
+  margin-bottom: 26px
+
+.top
+  position: sticky
+  left: 0
+  top: 0
+  width: 100vw
+  z-index: 3
+  .content
+    margin-top: 127px
+    &_user
+        margin-top: 84px
